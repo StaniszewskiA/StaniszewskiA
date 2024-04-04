@@ -1,4 +1,4 @@
-### I like thinking about things.
+### I like to think about things.
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StaniszewskiA"/>
 
